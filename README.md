@@ -5,4 +5,5 @@ Create a file named index.html. Add a header which contains inner text as '2011 
 ![indian_batting_scorecard](https://user-images.githubusercontent.com/91215261/173781571-dfb8c47d-258b-4f3d-b7d9-f35007471441.jpg)
 ## Step 2 : Create Indian Bowling Scorecard
 Create a file named indian_bowling.html. Header and buttons can be directly copy pasted from index.html page. Similar to step 1 create the table using <thead>,<tr> and <tfoot> tags. Please find the image of the expected outcome just below this instruction.
+  ![indian-bowling_scorecard](https://user-images.githubusercontent.com/91215261/173782669-67d21559-8e7e-41d0-99fb-ff5d3133070d.jpg)
   
