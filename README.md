@@ -8,5 +8,7 @@ Create a file named indian_bowling.html. Header and buttons can be directly copy
 ![indian-bowling_scorecard](https://user-images.githubusercontent.com/91215261/173782669-67d21559-8e7e-41d0-99fb-ff5d3133070d.jpg)
 ## Step 3 : Create Srilankan Batting Scorecard
 Create a file named srilankan_batting.html.Header and buttons can be directly copy pasted from index.html page.Similar to step 1 create the table using thead,tr and tfoot tags. Please find the image of the expected outcome just below this instruction.
+![srilankan_batting_scorecard](https://user-images.githubusercontent.com/91215261/173786283-d341b3d2-6fb9-475d-a8f3-55630f4a5abd.jpg)
 ## Step 4 : Create Srilankan Bowling Scorecard
 Create a file named srilankan_bowling.html.Header and buttons can be directly copy pasted from index.html page.Similar to step 1 create the table using thead,tr and tfoot tags. Please find the image of the expected outcome just below this instruction.  
+![srilankan_bowling_scorecard](https://user-images.githubusercontent.com/91215261/173786302-738fe3ef-16ec-4c44-b9ee-343a6eba043c.jpg)
